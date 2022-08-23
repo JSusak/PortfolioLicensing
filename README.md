@@ -14,9 +14,6 @@ Creating my portfolio was a very fun experience, made even more enjoyable by the
 - react-router-dom © React Training 2015-2019, Remix Software 2020-2021 [NPM](https://www.npmjs.com/package/react-router-dom) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-reactrouterdom)
 - react-scripts © Facebook, Inc [NPM](https://www.npmjs.com/package/react-scripts) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-reactscripts)
 - web-vitals [NPM](https://www.npmjs.com/package/web-vitals) [License (Apache 2.0)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-webvitals)
-  <<<<<<< HEAD
-- gh-pages © Tim Schaub [NPM](https://www.npmjs.com/package/gh-pages) [License (MIT)]()
 - twemoji © Twitter [GitHub](https://github.com/twitter/twemoji) [License (MIT)]() [LICENSE (CC-BY-4.0)]()
-- # giscus © laymonage [Website](https://giscus.app/) [GitHub](https://github.com/giscus/giscus-component) [License (MIT)]()
+- giscus © laymonage [Website](https://giscus.app/) [GitHub](https://github.com/giscus/giscus-component) [License (MIT)]()
 - gh-pages © Tim Schaub [NPM](https://www.npmjs.com/package/gh-pages) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-ghpages)
-  > > > > > > > 8c2457837f91525a0aa3872fdd738eb8e437e641
