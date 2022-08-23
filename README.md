@@ -15,3 +15,5 @@ Creating my portfolio was a very fun experience, made even more enjoyable by the
 - react-scripts © Facebook, Inc [NPM](https://www.npmjs.com/package/react-scripts) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-reactscripts)
 - web-vitals [NPM](https://www.npmjs.com/package/web-vitals) [License (Apache 2.0)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-webvitals)
 - gh-pages © Tim Schaub [NPM](https://www.npmjs.com/package/gh-pages) [License (MIT)]()
+- twemoji © Twitter [GitHub](https://github.com/twitter/twemoji) [License (MIT)]() [LICENSE (CC-BY-4.0)]()
+- giscus © laymonage [Website](https://giscus.app/) [GitHub](https://github.com/giscus/giscus-component) [License (MIT)]()
