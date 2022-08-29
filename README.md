@@ -17,3 +17,6 @@ Creating my portfolio was a very fun experience, made even more enjoyable by the
 - twemoji © Twitter [GitHub](https://github.com/twitter/twemoji) [License (MIT)]() [LICENSE (CC-BY-4.0)]()
 - giscus © laymonage [Website](https://giscus.app/) [GitHub](https://github.com/giscus/giscus-component) [License (MIT)]()
 - gh-pages © Tim Schaub [NPM](https://www.npmjs.com/package/gh-pages) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-ghpages)
+- three.js © three.js authors [Website](https://threejs.org/) [License (MIT)]()
+- react-three-fiber © Paul Henschel [NPM](https://www.npmjs.com/package/@react-three/fiber) [License(MIT)]()
+- drei © react-spring [NPM](https://www.npmjs.com/package/@react-three/drei) [License(MIT)]()
