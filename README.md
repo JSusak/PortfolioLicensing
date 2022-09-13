@@ -7,7 +7,7 @@ Creating my portfolio was a very fun experience, made even more enjoyable by the
 - @emotion/react © Emotion team and other contributors [NPM](https://www.npmjs.com/package/@emotion/react) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-emotionreact)
 - @fontsource/arvo + @fontsource/mochiy-pop-one © Lotus [GitHub](https://github.com/fontsource/fontsource) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-fontsource)
 - animejs © Julian Garnier [Website](http://animejs.com/) [NPM](https://www.npmjs.com/package/animejs) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-animejs)
-- framer-motion © Framer B.V. [NPM](https://github.com/framer/motion) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-framermotion)
+- framer-motion + framer-motion-3d © Framer B.V. [NPM](https://github.com/framer/motion) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-framermotion)
 - next © Vercel, Inc. [Website](https://nextjs.org/) [NPM](https://www.npmjs.com/package/next) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-next)
 - react-confetti © Aaron Lampros [NPM](https://www.npmjs.com/package/react-confetti) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-reactconfetti)
 - react + react-dom © Facebook, Inc. and its affiliates. [Website](https://reactjs.org/) [NPM](https://www.npmjs.com/package/react-dom) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-react)
