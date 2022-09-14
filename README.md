@@ -21,4 +21,4 @@ Creating my portfolio was a very fun experience, made even more enjoyable by the
 - react-three-fiber © Paul Henschel [NPM](https://www.npmjs.com/package/@react-three/fiber) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-react-three-fiber)
 - drei © react-spring [NPM](https://www.npmjs.com/package/@react-three/drei) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-drei)
 - valtio © Poimandres [NPM](https://www.npmjs.com/package/valtio) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-valtio)
-- react-colorful © Vlad Shilov <omgovich@ya.ru> [NPM](https://www.npmjs.com/package/react-colorful) [License (MIT)]()
+- react-colorful © Vlad Shilov <omgovich@ya.ru> [NPM](https://www.npmjs.com/package/react-colorful) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-react-colorful)
