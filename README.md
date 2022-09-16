@@ -19,6 +19,7 @@ Creating my portfolio was a very fun experience, made even more enjoyable by the
 - gh-pages © Tim Schaub [NPM](https://www.npmjs.com/package/gh-pages) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-ghpages)
 - three.js © three.js authors [Website](https://threejs.org/) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-threejs)
 - react-three-fiber © Paul Henschel [NPM](https://www.npmjs.com/package/@react-three/fiber) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-react-three-fiber)
-- drei © react-spring [NPM](https://www.npmjs.com/package/@react-three/drei) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-drei)
+- drei + react-postprocessing © react-spring [NPM](https://www.npmjs.com/package/@react-three/drei) [NPM (react-postprocessing)](https://www.npmjs.com/package/@react-three/postprocessing) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-drei%2Breact-postprocessing)
 - valtio © Poimandres [NPM](https://www.npmjs.com/package/valtio) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-valtio)
 - react-colorful © Vlad Shilov <omgovich@ya.ru> [NPM](https://www.npmjs.com/package/react-colorful) [License (MIT)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-react-colorful)
+- postprocessing © Raoul van Rüschen [NPM](https://www.npmjs.com/package/postprocessing) [License (zlib)](https://github.com/JSusak/PortfolioLicensing/blob/main/license/LICENSE-postprocessing)
